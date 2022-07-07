@@ -1,0 +1,9 @@
+[gd_scene format=2]
+
+[node name="body 0" type="ColorRect"]
+anchor_bottom = 0.002
+margin_left = 80.0
+margin_top = 80.0
+margin_right = 120.0
+margin_bottom = 118.4
+color = Color( 0.329412, 0.254902, 0.0392157, 1 )
